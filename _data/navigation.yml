@@ -1,6 +1,6 @@
 main:
   - title: "개발"
-    url: /docs/quick-start-guide/
+    url: /development/
   - title: "재태크&투자일기"
     url: /year-archive/
   - title: "블록체인&암호화폐"
